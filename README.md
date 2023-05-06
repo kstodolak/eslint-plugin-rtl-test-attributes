@@ -1,6 +1,7 @@
 # eslint-plugin-react-testing-library-custom
 
 [![npm version](https://img.shields.io/npm/v/eslint-plugin-rtl-test-attributes.svg)](https://www.npmjs.com/package/eslint-plugin-rtl-test-attributes)
+[![GitHub repository](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/kstodolak/eslint-plugin-rtl-test-attributes)
 
 Custom ESLint rules for React Testing Library to enforce best practices and encourage the use of semantic elements over data-testid attributes.
 

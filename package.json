@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-rtl-test-attributes",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Custom ESLint rules for Testing Library to enforce best practices and encourage the use of semantic elements over data-testid attributes.",
   "main": "./lib/index.js",
   "scripts": {
